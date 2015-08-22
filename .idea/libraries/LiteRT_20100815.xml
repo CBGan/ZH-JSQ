@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="LiteRT-20100815">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/LiteRT-20100815.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
